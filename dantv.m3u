@@ -1,6 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="tt9813792" tvg-name="tt9813790" tvg-type="tvshows" group-title="ערוצי טלוויזיה" tvg-logo="https://m.isramedia.net/images/channelpic/c12.webp",ערוץ 12
+#EXTINF:-1 tvg-id="tt9813790" tvg-name="tt9813790" tvg-type="tvshows" group-title="ערוצי טלוויזיה" tvg-logo="https://m.isramedia.net/images/channelpic/c12.webp",ערוץ 12
 https://tvnow.best/api/stream/poles.chris@gmail.com/AShlee2005@@/livetv.epg/channel12.il.m3u8
+#EXTINF:-1 tvg-id="tt9813790" tvg-name="tt9813790" tvg-type="tvshows" group-title="ערוצי טלוויזיה" tvg-logo="https://israel-now.co.il/wp-content/uploads/2020/12/13-reshet.jpg",ערוץ 13
+https://tvnow.best/api/stream/poles.chris@gmail.com/AShlee2005@@/livetv.epg/channel13.il.m3u8
 #EXTINF:-1 tvg-id="hot.live" tvg-name="hot" tvg-type="movies" group-title="IL" tvg-logo="https://teruflix.com/wp-content/uploads/2022/12/1130377.jpeg",golstar e12
 https://cdn.jwplayer.com/manifests/DfWMDbOV.m3u8
 #EXTM3U
