@@ -2,5 +2,8 @@
 #EXTINF:-1 tvg-id="hot.live" tvg-name="hot" tvg-type="movies" group-title="IL" tvg-logo="https://teruflix.com/wp-content/uploads/2022/12/1130377.jpeg",golstar e12
 https://cdn.jwplayer.com/manifests/DfWMDbOV.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-id="hot.live" tvg-name="CH12" tvg-type="movies" group-title="IL" tvg-logo="https://www.srugim.co.il/wp-content/uploads/2022/12/WhatsApp-Image-2022-12-07-at-16.59.33.jpeg",זמר במסכה 3 פרק 7
+#EXTINF:-1 tvg-id="tt9813792" tvg-name="tt9813792" tvg-type="tvshows" group-title="הזמר במסכה" ,Hazamar bemasecha S3e6
+https://cdn.jwplayer.com/manifests/xxH1oAUn.m3u8
+#EXTINF:-1 tvg-id="tt9813792" tvg-name="tt9813792" tvg-type="tvshows" group-title="הזמר במסכה" ,Hazamar bemasecha S3e7
 https://cdn.jwplayer.com/manifests/JkrlTQw9.m3u8
+
