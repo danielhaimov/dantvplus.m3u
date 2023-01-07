@@ -1,8 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="tt9813792" tvg-name="tt9813790" tvg-type="tvshows" group-title="ערוצי טלוויזיה" tvg-logo="https://m.isramedia.net/images/channelpic/c12.webp",ערוץ 12
+https://tvnow.best/api/stream/poles.chris@gmail.com/AShlee2005@@/livetv.epg/channel12.il.m3u8
 #EXTINF:-1 tvg-id="hot.live" tvg-name="hot" tvg-type="movies" group-title="IL" tvg-logo="https://teruflix.com/wp-content/uploads/2022/12/1130377.jpeg",golstar e12
 https://cdn.jwplayer.com/manifests/DfWMDbOV.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-id="tt9813792" tvg-name="tt9813792" tvg-type="tvshows" group-title="הזמר במסכה" tvg-logo="https://teruflix.com/wp-content/uploads/2022/12/1130377.jpeg",הזמר במסכה ע3 פ6
+#EXTINF:-1 tvg-id="tt9813792" tvg-name="tt9813792" tvg-type="tvshows" group-title="הזמר במסכה" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-2i25_IvkGhuJvHrrwpmTmMXiW3ce3u8qPrwyJOkZqdVUi7UBRR_-8dPJVtHPGXjqUeH9NYMlHRQxnBYvfeAbrEqvIX6jE748aNibtz5bC5fQFE-tqXFA_mqoVIJRznBp9AgYJKjMi_zFDuCM8Hgbf-0cHIR2QS61Le4VHxikzQhPwxoTyOouCMCL/s1920/ZamarS03_DualCostumes_9_x5_re.jpg",הזמר במסכה ע3 פ6
 https://cdn.jwplayer.com/videos/xxH1oAUn-SiuXdOqS.mp4
-#EXTINF:-1 tvg-id="tt9813792" tvg-name="tt9813792" tvg-type="tvshows" group-title="הזמר במסכה" tvg-logo="https://teruflix.com/wp-content/uploads/2022/12/1130377.jpeg",הזמר במסכה ע3 פ7
+#EXTINF:-1 tvg-id="tt9813792" tvg-name="tt9813792" tvg-type="tvshows" group-title="הזמר במסכה" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj89zN7W5NsOpVuu5MmqSBAUJ0O-4I78OPiw45nzTmAULwovDKTIe-SNonwJ_KGZCSBRdD41ynnaFFJleV--zdgD999ri4e8RRy5UGXbRXrSkpo3ikbmnvjkrGJEflbmU4m9onV9iTwSBlI__1JGZWjESN8-NAOvdgHe8qREjFrFLxf2_x-CE_nAVlR/s1920/ZamarS03_DualCostumes_9_x5_re%20(1).jpg",הזמר במסכה ע3 פ7
 https://cdn.jwplayer.com/videos/JkrlTQw9-SiuXdOqS.mp4
