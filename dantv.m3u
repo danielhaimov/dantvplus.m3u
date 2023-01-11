@@ -1,7 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="tt9813790" tvg-name="tt9813790" tvg-type="tvshows" group-title="ערוצי טלוויזיה" tvg-logo="https://m.isramedia.net/images/channelpic/c12.webp",ערוץ 12
+#EXTINF:-1 tvg-id="tt9813790" tvg-name="tt9813790" tvg-type="tvshows" group-title="חדשות" tvg-logo="https://m.isramedia.net/images/channelpic/c12.webp",ערוץ 12
 https://tvnow.best/api/stream/poles.chris@gmail.com/AShlee2005@@/livetv.epg/channel12.il.m3u8
-#EXTINF:-1 tvg-id="tt9813790" tvg-name="tt9813790" tvg-type="tvshows" group-title="ערוצי טלוויזיה" tvg-logo="https://israel-now.co.il/wp-content/uploads/2020/12/13-reshet.jpg",ערוץ 13
+#EXTINF:-1 tvg-id="tt9813790" tvg-name="tt9813790" tvg-type="tvshows" group-title="חדשות" tvg-logo="https://israel-now.co.il/wp-content/uploads/2020/12/13-reshet.jpg",ערוץ 13
 https://tvnow.best/api/stream/poles.chris@gmail.com/AShlee2005@@/livetv.epg/channel13.il.m3u8
-#EXTINF:-1 tvg-id="tt9813790" tvg-name="tt9813790" tvg-type="tvshows" group-title="ערוצי טלוויזיה" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/f/ff/HOT3_2018_Logo.svg/1200px-HOT3_2018_Logo.svg.png",HOT 3
+#EXTINF:-1 tvg-id="tt9813790" tvg-name="tt9813790" tvg-type="tvshows" group-title="בידור" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/f/ff/HOT3_2018_Logo.svg/1200px-HOT3_2018_Logo.svg.png",HOT 3
 http://ua.kinoshka.tv/play/1537/6275F046A1AFFE4/video.m3u8
+#EXTINF:-1 tvg-id="tt9813790" tvg-name="tt9813790" tvg-type="tvshows" group-title="בידור" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/New_HOT_HBO_channel_logo.png/640px-New_HOT_HBO_channel_logo.png",HOT HBO
+http://ua.kinoshka.tv/play/6908/6275F046A1AFFE4/video.m3u8
+#EXTINF:-1 tvg-id="tt9813790" tvg-name="tt9813790" tvg-type="tvshows" group-title="ספורט" tvg-logo="https://upload.wikimedia.org/wikipedia/he/4/4e/Sport1_2020.JPG",ספורט 1
+https://eyetv.site:8443/abcdefg123/abcdefg123/162051
