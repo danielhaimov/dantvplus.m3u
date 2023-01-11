@@ -3,15 +3,5 @@
 https://tvnow.best/api/stream/poles.chris@gmail.com/AShlee2005@@/livetv.epg/channel12.il.m3u8
 #EXTINF:-1 tvg-id="tt9813790" tvg-name="tt9813790" tvg-type="tvshows" group-title="ערוצי טלוויזיה" tvg-logo="https://israel-now.co.il/wp-content/uploads/2020/12/13-reshet.jpg",ערוץ 13
 https://tvnow.best/api/stream/poles.chris@gmail.com/AShlee2005@@/livetv.epg/channel13.il.m3u8
-
-#EXTINF:-1 tvg-id="tt9813791" tvg-name="tt9813791" type="video" group-title="גולסטאר" tvg-logo="https://cdn.jwplayer.com/thumbs/DfWMDbOV-1920.jpg",גולסטאר מרוקו ע1 פ12
-https://cdn.jwplayer.com/videos/DfWMDbOV-OIf20FGE.mp4
-#EXTINF:-1 tvg-id="tt9813791" tvg-name="tt9813791" type="video" group-title="גולסטאר" tvg-logo="https://cdn.jwplayer.com/thumbs/DfWMDbOV-1920.jpg",גולסטאר מרוקו ע1 פ12
-https://cdn.jwplayer.com/videos/DfWMDbOV-OIf20FGE.mp4
-#EXTINF:-1 tvg-id="tt9813791" tvg-name="tt9813791" type="video" group-title="גולסטאר" tvg-logo="https://cdn.jwplayer.com/thumbs/DfWMDbOV-1920.jpg",גולסטאר ע1 פ13
-https://ia904709.us.archive.org/21/items/4_20230110_202301/%D7%A4%D7%A8%D7%A7%2013.mp4
-
-#EXTINF:-1 tvg-id="tt9813792" tvg-name="tt9813792" type="video" group-title="הזמר במסכה" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-2i25_IvkGhuJvHrrwpmTmMXiW3ce3u8qPrwyJOkZqdVUi7UBRR_-8dPJVtHPGXjqUeH9NYMlHRQxnBYvfeAbrEqvIX6jE748aNibtz5bC5fQFE-tqXFA_mqoVIJRznBp9AgYJKjMi_zFDuCM8Hgbf-0cHIR2QS61Le4VHxikzQhPwxoTyOouCMCL/s1920/ZamarS03_DualCostumes_9_x5_re.jpg",הזמר במסכה ע3 פ6
-https://cdn.jwplayer.com/videos/xxH1oAUn-SiuXdOqS.mp4
-#EXTINF:-1 tvg-id="tt9813792" tvg-name="tt9813792" type="video" group-title="הזמר במסכה" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj89zN7W5NsOpVuu5MmqSBAUJ0O-4I78OPiw45nzTmAULwovDKTIe-SNonwJ_KGZCSBRdD41ynnaFFJleV--zdgD999ri4e8RRy5UGXbRXrSkpo3ikbmnvjkrGJEflbmU4m9onV9iTwSBlI__1JGZWjESN8-NAOvdgHe8qREjFrFLxf2_x-CE_nAVlR/s1920/ZamarS03_DualCostumes_9_x5_re%20(1).jpg",הזמר במסכה ע3 פ7
-https://cdn.jwplayer.com/videos/JkrlTQw9-SiuXdOqS.mp4
+#EXTINF:-1 tvg-id="tt9813790" tvg-name="tt9813790" tvg-type="tvshows" group-title="ערוצי טלוויזיה" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/f/ff/HOT3_2018_Logo.svg/1200px-HOT3_2018_Logo.svg.png",HOT 3
+http://ua.kinoshka.tv/play/1537/6275F046A1AFFE4/video.m3u8
