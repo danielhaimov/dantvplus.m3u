@@ -11,3 +11,5 @@ http://he11o.akadatel.com/iptv/SM4W9N9YGSMW4M/2354/index.m3u8
 https://eyetv.site:8443/abcdefg123/abcdefg123/162051
 #EXTINF:-1 tvg-id="tt9813792" tvg-name="tt9813792" tvg-type="tvshows" group-title="בידור" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/New_HOT_HBO_channel_logo.png/640px-New_HOT_HBO_channel_logo.png",Yes COMEDY HD
 http://26cc9800.russtv.net/iptv/XEZSB758K8BABF/2345/index.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Maybe I Do - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vj649F5QB3OQbTKqpMX3UiCkp5q.jpg" group-title="JUST RELEASED HOLLYWOOD",Maybe I Do - 2023
+http://dandyuk.watch:8880/movie/aHkwktBJ/dYx1KTe1t6/2259686.mp4
