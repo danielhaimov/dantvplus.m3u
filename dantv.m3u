@@ -67,8 +67,6 @@ http://sansat.net:25461/02028185387121/8387878311/101957
 http://sansat.net:25461/02028185387121/8387878311/101958
 #EXTINF:-1 tvg-ID="" tvg-name="IL: HALA TV" tvg-logo="http://vodkom.com:25461/Logo/ISRAEL/HALA_TV_IL.png" group-title="ISRAEL",IL: HALA TV
 http://sansat.net:25461/02028185387121/8387878311/101959
-#EXTINF:-1 tvg-ID="" tvg-name="===== IL SPORTS =====" tvg-logo="http://vodkom.com:25461/Logo/ISRAEL/" group-title="ISRAEL",===== IL SPORTS =====
-http://sansat.net:25461/02028185387121/8387878311/101960
 #EXTINF:-1 tvg-ID="sport1.il" tvg-name="IL: SPORT 1" tvg-logo="http://vodkom.com:25461/Logo/ISRAEL/Sport_1_HD_IL.png" group-title="ISRAEL",IL: SPORT 1
 http://sansat.net:25461/02028185387121/8387878311/101961
 #EXTINF:-1 tvg-ID="sport2.il" tvg-name="IL: SPORT 2" tvg-logo="http://vodkom.com:25461/Logo/ISRAEL/SPORT_2_HD_IL.png" group-title="ISRAEL",IL: SPORT 2
@@ -85,8 +83,6 @@ http://sansat.net:25461/02028185387121/8387878311/101966
 http://sansat.net:25461/02028185387121/8387878311/101967
 #EXTINF:-1 tvg-ID="sport5.il" tvg-name="IL: SPORT 5 HD" tvg-logo="http://vodkom.com:25461/Logo/ISRAEL/Sport_5_HD_IL.png" group-title="ISRAEL",IL: SPORT 5 HD
 http://sansat.net:25461/02028185387121/8387878311/101968
-#EXTINF:-1 tvg-ID="" tvg-name="===== IL KIDS =====" tvg-logo="http://vodkom.com:25461/Logo/ISRAEL/" group-title="ISRAEL",===== IL KIDS =====
-http://sansat.net:25461/02028185387121/8387878311/101969
 #EXTINF:-1 tvg-ID="disneychannel.il" tvg-name="IL: DISNEY" tvg-logo="http://vodkom.com:25461/Logo/ISRAEL/DISNEY_CHANNEL_HD_IL.png" group-title="ISRAEL",IL: DISNEY
 http://sansat.net:25461/02028185387121/8387878311/101970
 #EXTINF:-1 tvg-ID="" tvg-name="IL: DISNEY JR" tvg-logo="http://vodkom.com:25461/Logo/ISRAEL/Disney_Jr_IL.png" group-title="ISRAEL",IL: DISNEY JR
@@ -119,8 +115,6 @@ http://sansat.net:25461/02028185387121/8387878311/101983
 http://sansat.net:25461/02028185387121/8387878311/101984
 #EXTINF:-1 tvg-ID="" tvg-name="IL: ACTION HD" tvg-logo="http://vodkom.com:25461/Logo/ISRAEL/Hot_Action_HD_IL.png" group-title="ISRAEL",IL: ACTION HD
 http://sansat.net:25461/02028185387121/8387878311/101985
-#EXTINF:-1 tvg-ID="" tvg-name="===== IL ENTERTAINMENT =====" tvg-logo="http://vodkom.com:25461/Logo/ISRAEL/" group-title="ISRAEL",===== IL ENTERTAINMENT =====
-http://sansat.net:25461/02028185387121/8387878311/101986
 #EXTINF:-1 tvg-ID="eentertainment.il" tvg-name="IL: ENTERTAINMENT" tvg-logo="http://vodkom.com:25461/Logo/ISRAEL/Entertainment_IL.png" group-title="ISRAEL",IL: ENTERTAINMENT
 http://sansat.net:25461/02028185387121/8387878311/101987
 #EXTINF:-1 tvg-ID="foodnetwork.il" tvg-name="IL: FOOD NETWORK" tvg-logo="http://vodkom.com:25461/Logo/ISRAEL/Food_Network_IL.png" group-title="ISRAEL",IL: FOOD NETWORK
@@ -129,13 +123,11 @@ http://sansat.net:25461/02028185387121/8387878311/101988
 http://sansat.net:25461/02028185387121/8387878311/101989
 #EXTINF:-1 tvg-ID="travelchannel.il" tvg-name="IL: TRAVEL CHANNEL" tvg-logo="http://vodkom.com:25461/Logo/ISRAEL/Travel_Channel_IL.png" group-title="ISRAEL",IL: TRAVEL CHANNEL
 http://sansat.net:25461/02028185387121/8387878311/101990
-#EXTINF:-1 tvg-ID="" tvg-name="===== IL DOCUMENTARY =====" tvg-logo="http://vodkom.com:25461/Logo/ISRAEL/" group-title="ISRAEL",===== IL DOCUMENTARY =====
-http://sansat.net:25461/02028185387121/8387878311/101991
 #EXTINF:-1 tvg-ID="yesdoku.il" tvg-name="IL: YES DOCU HD" tvg-logo="http://vodkom.com:25461/Logo/ISRAEL/Yes_Docu_FHD_IL.png" group-title="ISRAEL",IL: YES DOCU HD
 http://sansat.net:25461/02028185387121/8387878311/101992
-#EXTINF:-1 tvg-ID="" tvg-name="===== IL MUSIC =====" tvg-logo="http://vodkom.com:25461/Logo/ISRAEL/" group-title="ISRAEL",===== IL MUSIC =====
-http://sansat.net:25461/02028185387121/8387878311/101994
 #EXTINF:-1 tvg-ID="mtvmusic.il" tvg-name="IL: MUSIC 24" tvg-logo="http://vodkom.com:25461/Logo/ISRAEL/MUSIC_24_IL.png" group-title="ISRAEL",IL: MUSIC 24
 http://sansat.net:25461/02028185387121/8387878311/101995
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Teen Wolf: The Movie 2023" tvg-logo="https://www.themoviedb.org/t/p/original/wAkpPm3wcHRqZl8XjUI3Y2chYq2.jpg" group-title="פעולה",Teen Wolf: The Movie 2023
 https://cdn.jwplayer.com/videos/ZldplG9D-UazI0Svu.mp4
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Plane 2023" tvg-logo="https://www.themoviedb.org/t/p/original/7QmKrktey3bH1Zn2CoqMiYVPHyy.jpg" group-title="סרטים 2023",Plane 2023
+https://cdn.jwplayer.com/videos/zRGFvUOe-OABzGIbP.mp4
